@@ -1,0 +1,16 @@
+{
+  "name": "serp-bot",
+  "version": "1.0.0",
+  "description": "Finds position of website basead on keywords list",
+  "main": "search.js",
+  "dependencies": {
+    "puppeteer": "^2.1.0",
+    "puppeteer-core": "^2.1.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "André Giampaolo",
+  "license": "ISC"
+}
